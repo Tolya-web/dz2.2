@@ -1,0 +1,35 @@
+#header{
+    width: 200px;
+    height: 200px;
+    background: rgb(73, 65, 32);
+}
+#wrapper{
+    width: 400px;
+    height: 400px;
+    background-color: seashell;
+    margin: auto;
+    border: 10px solid black
+
+
+}
+#menu{
+    width: 220px;
+    height: 220px;
+    background: #00f;
+    position: absolute;
+    top: 180px;
+    left: 550px;
+    
+}
+body{
+    margin-top: 100px;
+    background: #aaa;
+}
+#footer{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    top: 310px;
+    left: 663px;
+}
